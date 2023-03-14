@@ -1,6 +1,6 @@
 # Socket-Computer-Network
 # Battle Ship GamePlay
-This was written in C++. Here is steps for running this:
+This was written in C++. Here are steps for running this game:
   1. Open file .cpp of server folder and run it.
   2. Open file .cpp of client folder and run it.
   3. While server is running, client enters the IP of the server.
